@@ -1,0 +1,2 @@
+# data
+Örnek veri setleri
